@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AYH0218
 - 👀 I’m interested in music, travel and many other creative things.
 - 🌱 I’m currently learning JavaScript, React and more.
-- 💻 My portfolio website is here. https://ayh0218.github.io/react-portfolio
+- 💻 My portfolio website is [here](https://ayh0218.github.io/react-portfolio){:target="_blank" rel="noopener"}
 
 
 
